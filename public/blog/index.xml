@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Блог on Moonblog v2.0</title>
+    <link>https://moonshine.net.ua/blog/</link>
+    <description>Recent content in Блог on Moonblog v2.0</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>uk</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate><atom:link href="https://moonshine.net.ua/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Death, death, death comes sweeping down</title>
+      <link>https://moonshine.net.ua/blog/death/</link>
+      <pubDate>Sun, 04 Sep 2022 05:15:15 +0300</pubDate>
+      
+      <guid>https://moonshine.net.ua/blog/death/</guid>
+      <description>Смерть мов сокіл напада,
+Смерть глузлива, смерть брудна,
+Смерть раптова, смерть крилата,
+Обличчя вміє приховати.
+Смерть росте з костей життя,
+А з любов&amp;rsquo;ю смерть - рідня:
+До скону світу час конають.
+Актор, що в роль в містерії грає,
+В якій кінець завжди один -
+На віки вічнії, Амінь.
+(c) &amp;ldquo;Dellamorte, Dellamore&amp;rdquo; aka &amp;ldquo;Cemetery Man&amp;rdquo;, переклад мій.</description>
+    </item>
+    
+    <item>
+      <title>Багарна (мапа для кампейну по Сall of Cthulhu)</title>
+      <link>https://moonshine.net.ua/blog/baharna/</link>
+      <pubDate>Mon, 29 Aug 2022 00:41:23 +0300</pubDate>
+      
+      <guid>https://moonshine.net.ua/blog/baharna/</guid>
+      <description>Надвечір одинадцятого дня побачили вони острів Оріаб, а вдалині - як здіймається зубчатий та вкритий снігом Нгранек. Вельми великий острів Оріаб, а Багарна - могутнє місто на ньому. За пристанню з порфіру здіймається Багарна кам&amp;rsquo;яними терасами та ступенями, вулицями, понад якими змикаються арки будівель та мостів між будівлями. Широкий підземний канал тече тунелем з гранітною брамою під цілим містом і впадає за ним в озеро Ят, де на дальньому березі розкинулися цегляні руїни прадавнього забутого міста без назви.</description>
+    </item>
+    
+    <item>
+      <title>Does the Black Moon Howl?</title>
+      <link>https://moonshine.net.ua/blog/my-first-post/</link>
+      <pubDate>Thu, 25 Aug 2022 18:48:17 +0300</pubDate>
+      
+      <guid>https://moonshine.net.ua/blog/my-first-post/</guid>
+      <description>Only when configuring it&amp;rsquo;s first Hugo site.</description>
+    </item>
+    
+  </channel>
+</rss>

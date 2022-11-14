@@ -1,0 +1,41 @@
+{{ define "body" }}
+    <body class="{{ if .Site.Params.backgroundImage }} background-image" style="background-image: url('{{ .Site.Params.backgroundImage }}');" {{ else }}"{{ end }}>
+{{ end }}
+
+{{ define "main" }}  
+    <main aria-role="main">
+        <div class="mainpagediv">
+            {{ if .Site.Params.Portrait.Path }}
+               <img src="{{ .Site.Params.Portrait.Path }}" class="circle" alt="{{ .Site.Params.Portrait.Alt }}" style="max-width:{{ .Site.Params.Portrait.MaxWidth }}" />
+            {{ end }}
+
+            <h1>{{ .Site.Title }}</h1>
+
+            {{ partial "subtitle.html" . }}
+             {{- with .Site.Params.social }}
+                <div>
+                    {{ partial "social-icons.html" . }}
+                </div>
+            {{- end }}
+        </div>
+        <div class="posts-main">                    
+            <h2>Останні дописи</h2>
+                            <ul class="posts-list-main">
+{{ range ( first 5 ( where site.RegularPages "Type" "in" site.Params.mainSections ).ByDate.Reverse ) }}
+<li class="posts-list-main-inner">
+                            <a href="{{.Permalink}}">
+                                <span class="post-day">
+                                        {{ .Date.Format .Site.Params.dateformNum }} - 
+                                </span>
+                                <span>{{.Title}}</span>
+                            </a>
+                        </li>
+{{- end}}
+                </ul>
+                 </div>
+        </div>
+       
+    </main>
+ {{ end }}
+  
+
