@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Інше on Moonblog v2.0</title>
+    <link>https://moonshine.net.ua/projects/</link>
+    <description>Recent content in Інше on Moonblog v2.0</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>uk</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Mon, 14 Nov 2022 23:44:18 +0200</lastBuildDate><atom:link href="https://moonshine.net.ua/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Roll Them Bones</title>
+      <link>https://moonshine.net.ua/projects/roll-them-bones/</link>
+      <pubDate>Mon, 31 Oct 2022 01:38:51 +0200</pubDate>
+      
+      <guid>https://moonshine.net.ua/projects/roll-them-bones/</guid>
+      <description>Discord-бот для кидання дайсів зі звуком Цей бот почав своє існування через те, що я скучив за звуком справжніх дайсів під час наших ігор в Діскорді. На початку все, що він робив - це грав звук падаючих кубів після того, як інший бот видав результат кидку.
+Зараз він підтримує всі стандартні кидки, арифметичні операції з дайсами, а також</description>
+    </item>
+    
+  </channel>
+</rss>
