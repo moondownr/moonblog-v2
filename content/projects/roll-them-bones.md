@@ -1,7 +1,7 @@
 ---
 title: "Roll Them Bones"
 date: 2022-10-31T01:38:51+02:00
-draft: true
+draft: false
 ---
 ## Discord-бот для кидання дайсів зі звуком
 
