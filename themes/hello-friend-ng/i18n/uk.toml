@@ -6,6 +6,9 @@
 [translations]
 other = "Переклади"
 
+[projects]
+other = "Інше"
+
 [postAvailable]
 other = "Доступне на "
 

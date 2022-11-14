@@ -205,7 +205,7 @@ disableHugoGeneratorInject = false
     identifier = "about"
     name       = "Про"
     url        = "/about"
-    weight     = "40"
+    weight     = "50"
   [[menu.main]]
     identifier = "posts"
     name       = "Блог"
@@ -215,9 +215,14 @@ disableHugoGeneratorInject = false
     identifier = "tags"
     name       = "Мітки"
     url        = "tags/"
-    weight     = "30"
+    weight     = "40"
   [[menu.main]]
     identifier = "translations"
     name       = "Переклади"
     url        = "translations/"
     weight     = "20"
+  [[menu.main]]
+    identifier = "projects"
+    name       = "Інше"
+    url        = "/projects"
+    weight     = "30"
