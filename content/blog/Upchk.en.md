@@ -1,5 +1,5 @@
 ---
-title: "Upchk - скрипт для стеження за офлайн/онлайн хостами"
+title: "Upchk - Python script for monitoring host online/offline status"
 date: 2022-12-08T13:32:45+02:00
 tags: ['python','coding']
 draft: false
