@@ -163,7 +163,7 @@ disableHugoGeneratorInject = false
   
   [[params.social]]
     name = "mastodon"
-    url  = "https://social.net.ua/moondownr"
+    url  = "https://mastodon.lol/@moondownr"
 
   [[params.social]]
     name = "github"
