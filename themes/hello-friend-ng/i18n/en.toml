@@ -6,8 +6,17 @@
 [translations]
 other = "Translations"
 
+[projects]
+other = "Projects"
+
 [postAvailable]
 other = "Also available in"
+
+[Blogs]
+other = "Blog"
+
+[about]
+other = "About"
 
 
 # 404.html
