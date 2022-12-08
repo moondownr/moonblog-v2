@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Moonblog v2.0</title>
+    <link>https://moonshine.net.ua/en/tags/</link>
+    <description>Recent content in Tags on Moonblog v2.0</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>uk</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Wed, 09 Apr 2014 00:00:00 +0000</lastBuildDate><atom:link href="https://moonshine.net.ua/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>coding</title>
+      <link>https://moonshine.net.ua/en/tags/coding/</link>
+      <pubDate>Thu, 08 Dec 2022 13:32:45 +0200</pubDate>
+      
+      <guid>https://moonshine.net.ua/en/tags/coding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>python</title>
+      <link>https://moonshine.net.ua/en/tags/python/</link>
+      <pubDate>Thu, 08 Dec 2022 13:32:45 +0200</pubDate>
+      
+      <guid>https://moonshine.net.ua/en/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Call of Cthulhu</title>
+      <link>https://moonshine.net.ua/en/tags/call-of-cthulhu/</link>
+      <pubDate>Mon, 29 Aug 2022 00:41:23 +0300</pubDate>
+      
+      <guid>https://moonshine.net.ua/en/tags/call-of-cthulhu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>maps</title>
+      <link>https://moonshine.net.ua/en/tags/maps/</link>
+      <pubDate>Mon, 29 Aug 2022 00:41:23 +0300</pubDate>
+      
+      <guid>https://moonshine.net.ua/en/tags/maps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RPG</title>
+      <link>https://moonshine.net.ua/en/tags/rpg/</link>
+      <pubDate>Mon, 29 Aug 2022 00:41:23 +0300</pubDate>
+      
+      <guid>https://moonshine.net.ua/en/tags/rpg/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
