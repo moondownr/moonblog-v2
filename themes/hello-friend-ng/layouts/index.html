@@ -11,7 +11,7 @@
 
             <h1>{{ .Site.Title }}</h1>
 
-            <p>{{ i18n "homeSubtitle" }}</p>
+            <div><p>{{ i18n "homeSubtitle" }}</p></div>
              {{- with .Site.Params.social }}
                 <div>
                     {{ partial "social-icons.html" . }}
