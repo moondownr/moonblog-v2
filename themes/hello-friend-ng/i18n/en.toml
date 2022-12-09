@@ -18,6 +18,9 @@ other = "Blog"
 [about]
 other = "About"
 
+[Latest-posts]
+other = "Latest entries"
+
 
 # 404.html
 #

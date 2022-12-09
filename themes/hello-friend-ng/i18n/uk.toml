@@ -18,6 +18,10 @@ other = "Блог"
 [about]
 other = "Про"
 
+[Latest-posts]
+other = "Останні дописи"
+
+
 # 404.html
 #
 [archives]
