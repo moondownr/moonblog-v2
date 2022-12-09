@@ -11,7 +11,7 @@
 
             <h1>{{ .Site.Title }}</h1>
 
-            <div style="max-width:90%"><p>{{ i18n "homeSubtitle" }}</p></div>
+            <div style="max-width:90%; margin: auto;"><p>{{ i18n "homeSubtitle" }}</p></div>
              {{- with .Site.Params.social }}
                 <div>
                     {{ partial "social-icons.html" . }}
