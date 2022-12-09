@@ -21,6 +21,9 @@ other = "About"
 [Latest-posts]
 other = "Latest entries"
 
+[homeSubtitle]
+other = "Personal blog/site, random bits of text and links to other stuff."
+
 
 # 404.html
 #
