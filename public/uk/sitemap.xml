@@ -56,15 +56,45 @@
   </url><url>
     <loc>https://moonshine.net.ua/tags/cemetery-man/</loc>
     <lastmod>2022-10-30T21:07:49+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://moonshine.net.ua/en/tags/cemetery-man/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk"
+                href="https://moonshine.net.ua/tags/cemetery-man/"
+                />
   </url><url>
     <loc>https://moonshine.net.ua/tags/dellamorte-dellamore/</loc>
     <lastmod>2022-10-30T21:07:49+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://moonshine.net.ua/en/tags/dellamorte-dellamore/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk"
+                href="https://moonshine.net.ua/tags/dellamorte-dellamore/"
+                />
   </url><url>
     <loc>https://moonshine.net.ua/tags/%D0%BF%D0%B5%D1%80%D0%B5%D0%BA%D0%BB%D0%B0%D0%B4/</loc>
     <lastmod>2022-10-30T21:07:49+02:00</lastmod>
   </url><url>
     <loc>https://moonshine.net.ua/translations/dellamorte/</loc>
     <lastmod>2022-10-30T21:07:49+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://moonshine.net.ua/en/translations/dellamorte/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk"
+                href="https://moonshine.net.ua/translations/dellamorte/"
+                />
   </url><url>
     <loc>https://moonshine.net.ua/blog/death/</loc>
     <lastmod>2022-09-04T05:15:15+03:00</lastmod>
@@ -135,6 +165,16 @@
   </url><url>
     <loc>https://moonshine.net.ua/translations/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://moonshine.net.ua/en/translations/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk"
+                href="https://moonshine.net.ua/translations/"
+                />
   </url><url>
     <loc>https://moonshine.net.ua/projects/</loc>
     <xhtml:link
