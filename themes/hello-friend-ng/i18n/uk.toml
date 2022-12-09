@@ -19,7 +19,7 @@ other = "Блог"
 other = "Про"
 
 [Latest-posts]
-other = "Останні дописи"
+other = "Latest entries"
 
 
 # 404.html
